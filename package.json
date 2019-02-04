@@ -1,0 +1,16 @@
+{
+    "name": "reflection",
+    "version": "1.0.0",
+    "description": "",
+    "main": "lib/reflection.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/node": "^10.12.21",
+        "@types/requirejs": "^2.1.31",
+        "requirejs": "^2.3.6"
+    }
+}

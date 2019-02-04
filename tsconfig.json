@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es2015",
+    "module": "system",
+    "strict": true,
+    "outFile": "lib/reflect.js",
+    "declaration": true
+  },
+  "include": [
+    "src/**/*.ts"
+  ]
+}
